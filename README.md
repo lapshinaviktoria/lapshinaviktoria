@@ -1,16 +1,26 @@
-## Hi there 👋
+<div id="header" align="center">
+    <h1>Привет! Меня зовут Виктория </h1>
+</div>
+<div id="header1" align="center">
+    <h3>Я начинающий BI-аналитик и стремлюсь развиваться в сфере анализа и визуализации данных.</h3>
+</div>
 
-<!--
-**lapshinaviktoria/lapshinaviktoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне: 
+- окончила курс BI-аналитики в Практикуме
+- люблю изучать новое и получать новые навыки
+- подробнее о моем опыте работы: [CV](https://hh.ru/resume/0e8e2244ff0d9523480039ed1f486569753330)
+- со мной можно связаться в [Telegram](https://t.me/kiri_lsv), [email](mailto:kiri.lsv@yandex.ru)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Стек технологий:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" title="trello" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/a/ae/20230204082502%21Google_Sheets_2020_Logo.svg/120px-Google_Sheets_2020_Logo.svg.png" title="excel" width="45" height="42"/>&nbsp;
+<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/apache-superset-icon-cyc19fiufldpekdt6c7jg.png/apache-superset-icon-80ygkwbe76iyhvftejjahm.png?_a=DATAg1AAZAA0" title="superset" width="40" height="40"/>&nbsp;
+<img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" title="datalens" width="50" height="50"/>&nbsp;
+
+---
+
